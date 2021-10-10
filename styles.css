@@ -1,0 +1,23 @@
+body {
+	background: #eee
+}
+
+#logo {
+	background-color: white;
+	border-radius: 50px;
+	padding: 5px;
+	margin: 15px 0px;
+	width: 90px
+}
+
+h1 {
+	color: rgb(255, 207, 64)
+}
+
+input {
+	width: 50%
+}
+
+#output img {
+	max-width: 25%
+}
