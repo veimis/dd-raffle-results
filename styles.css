@@ -1,5 +1,5 @@
 body {
-	background: #eee
+	background: #eee;
 }
 
 #logo {
@@ -7,17 +7,32 @@ body {
 	border-radius: 50px;
 	padding: 5px;
 	margin: 15px 0px;
-	width: 90px
+	width: 90px;
 }
 
 h1 {
-	color: rgb(255, 207, 64)
+	color: rgb(255, 207, 64);
 }
 
 input {
-	width: 50%
+	width: 50%;
 }
 
+#output {
+	min-height: 500px;
+}
+#output h3 {
+	background-color: #ffc107;
+	max-width: 50%;
+}
 #output img {
-	max-width: 25%
+	max-width: 25%;
+}
+
+#goblin {
+	max-width: 25%;
+}
+
+#address {
+	font-weight: bold;
 }
