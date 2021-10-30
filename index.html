@@ -7,24 +7,26 @@
   </head>
   <body>
     <noscript>This page contains webassembly and javascript content, please enable javascript in your browser.</noscript>
-    <script src="./bootstrap.js"></script>
 		<div id="logo">
 			<a href="https://www.drunkendragon.games/rewards">
 				<img src="https://www.drunkendragon.games/assets/icon.png" alt="Drunken Dragon Logo">
 			</a>
 		</div>
 		<h1>
-			Drunken Dragon raffle rewards (epoch 298)
+			Drunken Dragon raffle rewards
 		</h1>
 
 		<h2>Enter any one of your wallets receive addresses</h1>
+		<div class="test">
+			<select id="epochSelector"></select>
+		</div>
 		<div id="eka">
-			<input id="input" type="text"></input>
-			<button id="button">Check</button>
+			<input id="input" type="text" class="test"></input>
+			<button id="button" class="test">Check</button>
 		</div>
 		<div id="output"></div>
 		<hr />
-		<div id="goblin">
+		<div>
 			<h3>Greetings fellow adventurer!</h3>
 			<p>The goblin technician running this place gets thristy sometimes, if you are able, consider tipping some Ada to keep his mug full.
 			</p>
@@ -40,5 +42,6 @@
 		<div>
 			<p>(Note: this is an independed site, visit official game site at <a href="https://www.drunkendragon.games/">drunkendragon.games</a>)</p>
 		</div>
+    <script src="./bootstrap.js"></script>
   </body>
 </html>
