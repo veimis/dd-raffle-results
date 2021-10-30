@@ -1,5 +1,6 @@
 body {
 	background: #eee;
+	padding: 5px;
 }
 
 #logo {
@@ -14,6 +15,9 @@ h1 {
 	color: rgb(255, 207, 64);
 }
 
+.test {
+	margin-top: 2px;
+}
 input {
 	min-width: 700px;
 	margin-bottom: 2px;
@@ -28,9 +32,6 @@ input {
 }
 #output img {
 	max-width: 400px;
-}
-
-#goblin {
 }
 
 #address {
