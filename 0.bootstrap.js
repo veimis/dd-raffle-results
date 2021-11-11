@@ -4,10 +4,10 @@
 /*!*********************!*\
   !*** ./epochs.json ***!
   \*********************/
-/*! exports provided: 0, 1, 2, 3, 4, 5, default */
+/*! exports provided: 0, 1, 2, 3, 4, 5, 6, default */
 /***/ (function(module) {
 
-eval("module.exports = JSON.parse(\"[\\\"299\\\",\\\"298\\\",\\\"297\\\",\\\"296\\\",\\\"295\\\",\\\"294\\\"]\");\n\n//# sourceURL=webpack:///./epochs.json?");
+eval("module.exports = JSON.parse(\"[\\\"301\\\",\\\"299\\\",\\\"298\\\",\\\"297\\\",\\\"296\\\",\\\"295\\\",\\\"294\\\"]\");\n\n//# sourceURL=webpack:///./epochs.json?");
 
 /***/ }),
 
